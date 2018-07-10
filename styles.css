@@ -1,0 +1,75 @@
+/*FLOATS*/
+
+body {
+    /*font-family: Arial;
+    line-height: 1;*/
+
+}
+/*.container {
+    flex-direction: column;
+    min-height: 100vh;
+}*/
+
+/*@media (min-width: 768px) {
+
+}*/
+
+header {
+    padding: 30px;
+    text-align: center;
+    font-size: 1.4em;
+    background-color: #db6283;
+    color: black;
+    }
+
+
+
+nav {
+    background-color: black;
+    color: #db6283;
+    padding: 20px;
+    text-align: center;
+
+
+}
+main {
+
+    padding: 20px;
+    text-align: center;
+    display: block;
+
+}
+aside {
+    padding: 20px;
+    background-color: black;
+    color: #db6283;
+    text-align: center;
+
+}
+
+footer {
+    padding: 30px;
+    text-align: center;
+    font-size: 1.4em;
+    background-color: #db6283;
+    color: black;
+
+}
+
+h1 {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+html, body{
+    height: 100%;
+
+}
+nav, aside {
+    height: 10%;
+
+}
+
+main{
+    height: 40%;
+    }
